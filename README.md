@@ -1,4 +1,4 @@
-Hi 👋, I'm Zweni Bonginkosi
+Hi 👋, I'm Zweni Bonginkosi<br>
 A passionate frontend developer from South Africa
 bawrer
 bawrer
